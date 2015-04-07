@@ -6,15 +6,18 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:38:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T09:51:59.646764+00:00", 
+  "modified_at": "2015-04-07T09:53:28.098667+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0ea4917e532c43b6b3bba4ba448c5b72", 
+    "21b4786aa89e48a684d0b73aa2420bbf"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nTus amistades y tu familia podr\u00edan ofrecerte remedios o sugerirte que vayas a ver a un curandero. Tal vez hayas usado estas cosas antes, pero ahora que est\u00e1s embarazada deb\u00e9s tener mucho cuidado con lo que tom\u00e1s.\r\n\r\nCuando est\u00e1s embarazada y cuando le est\u00e1s dando el pecho a tu beb\u00e9, algunos remedios podr\u00edan hacerle da\u00f1o a tu beb\u00e9. \r\n\r\nUna buena regla es revisar con tu profesional de la salud antes de tomarte cualquier remedio o medicina. \u00c9l o ella te dir\u00e1 cu\u00e1les son seguros para vos y para tu beb\u00e9.\r\n\r\nOtra cosa que hay que recordar es no usar pociones para el embarazo. Muchas veces contienen alcohol, \u00a1as\u00ed que no son nada buenas para vos! Son malas para vos y para tu beb\u00e9.\r\n\r\n", 
   "source": null, 
