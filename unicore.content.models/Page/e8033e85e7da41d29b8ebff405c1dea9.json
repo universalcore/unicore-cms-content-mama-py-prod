@@ -6,23 +6,26 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:47:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T11:43:53.421882+00:00", 
+  "modified_at": "2015-04-07T13:35:46.301799+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "545506139cac47cf9d5e1aa121a07849", 
+    "8bcd75cd645a4d42a367363b8fe0ab4a"
+  ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nAhora que tu beb\u00e9 es m\u00f3vil, es hora de asegurarse de que pueda jugar de manera segura.\r\n\r\nAsegurate de que tu beb\u00e9 no pueda alcanzar baldes y recipientes de agua, estufas calientes ni fuego.\r\n\r\nAsegur\u00e1 las puertas de los muebles y fiambreras con algo para que no las pueda abrir y coloc\u00e1 las cajas o canastas en alto, donde no las pueda alcanzar.\r\n\r\nLos productos para la limpieza, como el cloro y el polvo limpiador, pueden hacerle mucho da\u00f1o al beb\u00e9, as\u00ed que ponelos en alto y guardados con llave.\r\n\r\nAgachate a su altura, para ver el mundo como lo ve tu beb\u00e9. Los cables el\u00e9ctricos colgando y las plantas podr\u00edan atraerle y tratar\u00e1 de alcanzarlos y podr\u00eda estirarlos hasta echarse las cosas encima.\r\n\r\nPon\u00e9 las bolsas de mano y las cosas que compres en un lugar alto, para que el ni\u00f1o o la ni\u00f1a no las alcance. Hasta cosas sencillas, como un l\u00e1piz labial o maquillaje pueden hacerle da\u00f1o.\r\n\r\nAsegurate de que las medicinas y las tabletas est\u00e9n fuera de su alcance.\r\n\r\nTambi\u00e9n es importante mantenerlo lejos de los ba\u00f1os y la ropa sucia.\r\n\r\nEl piso puede tener lombrices, por eso, ten\u00e9s que lavar el piso con agua y jab\u00f3n antes de que tu beb\u00e9 juegue ah\u00ed. Esto ayuda a mantenerlo seguro y evita que se enferme con lombrices. Si no pod\u00e9s limpiar el piso, extend\u00e9 en el suelo una manta o una alfombra, grande y limpia, para que el beb\u00e9 juegue sobre ella.\r\n\r\nCuando tu beb\u00e9 ya se pare y camine, asegurate de protegerle los pies con medias (no apretadas) o pantuflas. Esto le ayudar\u00e1 contra las lombrices. \r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nAhora que tu beb\u00e9 es m\u00f3vil, es hora de asegurarse de que pueda jugar de manera segura.\r\n\r\nAsegurate de que tu beb\u00e9 no pueda alcanzar baldes y recipientes de agua, estufas calientes ni fuego.\r\n\r\nAsegur\u00e1 las puertas de los muebles y fiambreras con algo para que no las pueda abrir y coloc\u00e1 las cajas o canastas en alto, donde no las pueda alcanzar.\r\n\r\nLos productos para la limpieza, como el cloro y el polvo limpiador, pueden hacerle mucho da\u00f1o al beb\u00e9, as\u00ed que ponelos en alto y guardados con llave.\r\n\r\nAgachate a su altura, para ver el mundo como lo ve tu beb\u00e9. Los cables el\u00e9ctricos colgando y las plantas podr\u00edan atraerle y tratar\u00e1 de alcanzarlos y podr\u00eda estirarlos hasta echarse las cosas encima.\r\n\r\nPon\u00e9 las bolsas de mano y las cosas que compres en un lugar alto, para que el ni\u00f1o o la ni\u00f1a no las alcance. Hasta cosas sencillas, como un l\u00e1piz labial o maquillaje pueden hacerle da\u00f1o.\r\n\r\nAsegurate de que las medicinas y las tabletas est\u00e9n fuera de su alcance.\r\n\r\nTambi\u00e9n es importante mantenerlo lejos de los ba\u00f1os y la ropa sucia.\r\n\r\nEl piso puede tener lombrices, por eso, ten\u00e9s que lavar el piso con agua y jab\u00f3n antes de que tu beb\u00e9 juegue ah\u00ed. Esto ayuda a mantenerlo seguro y evita que se enferme con lombrices. Si no pod\u00e9s limpiar el piso, extend\u00e9 en el suelo una manta o una alfombra, grande y limpia, para que el beb\u00e9 juegue sobre ella.\r\n\r\nCuando tu beb\u00e9 ya se pare y camine, asegurate de protegerle los pies con medias (no apretadas) o pantuflas. Esto le ayudar\u00e1 contra las lombrices. \r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "baby-is-on-move", 
   "uuid": "e8033e85e7da41d29b8ebff405c1dea9"
