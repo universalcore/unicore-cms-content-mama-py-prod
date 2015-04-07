@@ -6,23 +6,27 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:43:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T11:12:34.424363+00:00", 
+  "modified_at": "2015-04-07T13:24:26.493148+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9be2489560304b3f9964042495559d5e", 
+    "2dcd3750332a48b888b2c4e7a3f579bb", 
+    "8fb32adc6a2546cc9fe3661f57976df4"
+  ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nPrimero, servite un vaso de agua limpia y segura y coloc\u00e1 el vaso donde puedas alcanzarlo. Amamantar puede darte sed. \r\n\r\nEs bueno que te sientes en lugar c\u00f3modo, donde puedas cargar a tu beb\u00e9 en una posici\u00f3n que no vaya a hacer que te duelan los brazos o la espalda. Asegurate de tener la espalda bien apoyada y de no estar inclinada hacia atr\u00e1s.\r\n\r\nColoc\u00e1 algunas almohadas o mantas cerca de vos, para que te ayuden a apoyar a tu beb\u00e9. Prob\u00e1 diferentes posiciones. Muchas madres encuentran que poner a su beb\u00e9 acostado en una almohada junto a su pecho,  funciona muy bien. O ponele a tu beb\u00e9 debajo de tu brazo de modo que sus pies apunten hacia atr\u00e1s y su cabecita est\u00e9 junto a tu seno. Hac\u00e9 lo que sea m\u00e1s c\u00f3modo para vos.\r\n\r\nCuando los dos est\u00e9n en una posici\u00f3n relajada, es hora de hacer que tu beb\u00e9 tome tu pecho en su boquita y empiece a mamar. A esto se le llama prenderse del pecho.\r\n\r\nTu beb\u00e9 podr\u00eda tomar leche entre 5 y 40 minutos. Si est\u00e1s en un lugar donde hay ruido que te moleste, busc\u00e1 un lugar tranquilo. Si te aburr\u00eds, amamant\u00e1 a tu beb\u00e9 escuchando m\u00fasica  o sentate con una amiga para que te acompa\u00f1e.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nPrimero, servite un vaso de agua limpia y segura y coloc\u00e1 el vaso donde puedas alcanzarlo. Amamantar puede darte sed. \r\n\r\nEs bueno que te sientes en lugar c\u00f3modo, donde puedas cargar a tu beb\u00e9 en una posici\u00f3n que no vaya a hacer que te duelan los brazos o la espalda. Asegurate de tener la espalda bien apoyada y de no estar inclinada hacia atr\u00e1s.\r\n\r\nColoc\u00e1 algunas almohadas o mantas cerca de vos, para que te ayuden a apoyar a tu beb\u00e9. Prob\u00e1 diferentes posiciones. Muchas madres encuentran que poner a su beb\u00e9 acostado en una almohada junto a su pecho,  funciona muy bien. O ponele a tu beb\u00e9 debajo de tu brazo de modo que sus pies apunten hacia atr\u00e1s y su cabecita est\u00e9 junto a tu seno. Hac\u00e9 lo que sea m\u00e1s c\u00f3modo para vos.\r\n\r\nCuando los dos est\u00e9n en una posici\u00f3n relajada, es hora de hacer que tu beb\u00e9 tome tu pecho en su boquita y empiece a mamar. A esto se le llama prenderse del pecho.\r\n\r\nTu beb\u00e9 podr\u00eda tomar leche entre 5 y 40 minutos. Si est\u00e1s en un lugar donde hay ruido que te moleste, busc\u00e1 un lugar tranquilo. Si te aburr\u00eds, amamant\u00e1 a tu beb\u00e9 escuchando m\u00fasica  o sentate con una amiga para que te acompa\u00f1e.\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 42, 
+  "position": 43, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "breastfeeding-how-start", 
   "uuid": "e9416ff5048247a79bd553c6adb47f54"
