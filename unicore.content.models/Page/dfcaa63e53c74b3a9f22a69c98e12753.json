@@ -1,0 +1,29 @@
+{
+  "subtitle": "SPA Why do I get headaches?", 
+  "description": "Las hormonas del embarazo pueden causar dolores de cabeza", 
+  "language": "spa_CO", 
+  "title": "\u00bfPor qu\u00e9 me est\u00e1n dando dolores de cabeza?", 
+  "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
+  "created_at": "2015-04-07T08:35:25.137713+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-07T08:35:25.137902+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nEs com\u00fan tener dolores de cabeza durante el embarazo, sobre todo en  los primeros 3 meses.\r\n\r\nLas hormonas del embarazo pueden causar dolores de cabeza y  migra\u00f1as. El cansancio y el estr\u00e9s pueden tensar tus m\u00fasculos y darte dolor de cabeza. Saltarte comidas y sentir hambre tambi\u00e9n podr\u00eda darte dolor de cabeza. O dormir m\u00e1s de lo normal o demasiado poco.\r\n\r\nEstas son algunas cosas que pod\u00e9s hacer: \r\n\r\n - \tTomate un tiempo cada d\u00eda para descansar. Explicale a tu familia que tu cuerpo est\u00e1 formando un beb\u00e9 y necesita m\u00e1s descanso. Sentate o acostate en un lugar tranquilo y dorm\u00ed si ten\u00e9s sue\u00f1o.\r\n\r\n - \tRemoj\u00e1 un trapo en agua limpia y calentita; exprim\u00ed bien el trapo y ponetelo  sobre los ojos y la nariz. Tambi\u00e9n podr\u00edas probar ponerte un trapo fr\u00edo en la frente o en la nuca.\r\n\r\n - \tPedile a alguien que te d\u00e9 masajes en el cuello y los hombros.\r\n\r\n**\u00bfSe\u00f1ales de peligro?**  Dolor de cabeza, visi\u00f3n borrosa y dolor debajo de las costillas, podr\u00edan ser se\u00f1al de que ten\u00e9s la presi\u00f3n alta. And\u00e1 a ver a tu profesional de la salud lo antes posible si te sent\u00eds as\u00ed.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-why-do-i-get-headaches", 
+  "uuid": "dfcaa63e53c74b3a9f22a69c98e12753"
+}
