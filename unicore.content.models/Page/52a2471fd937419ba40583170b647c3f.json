@@ -6,23 +6,26 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:44:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T11:17:02.639573+00:00", 
+  "modified_at": "2015-04-07T13:26:16.286345+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "314483db49c8490da45ba89d9d2d3d20", 
+    "1cd57634e44047188cb1a69c3be10eb6"
+  ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\u00a1Amamantar a tu beb\u00e9 puede darte mucha hambre! Necesit\u00e1s comer m\u00e1s de lo normal. Tu cuerpo es muy bueno para hacer leche, pero si no com\u00e9s lo suficiente, podr\u00edas sentirte cansada y d\u00e9bil. \r\n\r\nTrat\u00e1 de comer muchas frutas y verduras frescas, como espinacas, acelga y repollo,  guayaba cruda, mandioca, mangos, aguacates y naranjas. Com\u00e9 alimentos de diferentes colores, para que obtengas muchas vitaminas y minerales. Com\u00e9 alimentos que te dan energ\u00eda, como arroz, pasta y papas. Com\u00e9 prote\u00ednas, que se encuentran en los huevos, pescado, pollo y carne. Com\u00e9 una gran variedad de alimentos y tu cuerpo obtendr\u00e1 todo lo que necesita para alimentar bien a tu beb\u00e9.\r\n\r\nTrat\u00e1 de aprovechar las 3 comidas principales del d\u00eda a horas fijas. Com\u00e9 tambi\u00e9n alimentos sanos entre comidas,  para mantener alto tu nivel de energ\u00eda. Por ejemplo frutas secas, fruta y verduras frescas y semillas.\r\n\r\nAmamantar a tu beb\u00e9 te puede dar mucha sed. Tom\u00e1 algo antes de darle de mamar. El agua limpia y segura es una buena opci\u00f3n. No ten\u00e9s que tomar leche para producir leche, pero s\u00ed necesit\u00e1s tomar mucha agua limpia y segura. No tomes demasiado caf\u00e9 ni gaseosas. 1 o 2 vasos de estos al d\u00eda es m\u00e1s que suficiente.\r\n\r\nSi no quer\u00e9s comer, eso podr\u00eda ser se\u00f1al de que necesit\u00e1s ayuda. Si te cuesta mucho trabajo comer y te est\u00e1s forzando a hacerlo, habl\u00e1 con tu profesional de la salud. \r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\n\u00a1Amamantar a tu beb\u00e9 puede darte mucha hambre! Necesit\u00e1s comer m\u00e1s de lo normal. Tu cuerpo es muy bueno para hacer leche, pero si no com\u00e9s lo suficiente, podr\u00edas sentirte cansada y d\u00e9bil. \r\n\r\nTrat\u00e1 de comer muchas frutas y verduras frescas, como espinacas, acelga y repollo,  guayaba cruda, mandioca, mangos, aguacates y naranjas. Com\u00e9 alimentos de diferentes colores, para que obtengas muchas vitaminas y minerales. Com\u00e9 alimentos que te dan energ\u00eda, como arroz, pasta y papas. Com\u00e9 prote\u00ednas, que se encuentran en los huevos, pescado, pollo y carne. Com\u00e9 una gran variedad de alimentos y tu cuerpo obtendr\u00e1 todo lo que necesita para alimentar bien a tu beb\u00e9.\r\n\r\nTrat\u00e1 de aprovechar las 3 comidas principales del d\u00eda a horas fijas. Com\u00e9 tambi\u00e9n alimentos sanos entre comidas,  para mantener alto tu nivel de energ\u00eda. Por ejemplo frutas secas, fruta y verduras frescas y semillas.\r\n\r\nAmamantar a tu beb\u00e9 te puede dar mucha sed. Tom\u00e1 algo antes de darle de mamar. El agua limpia y segura es una buena opci\u00f3n. No ten\u00e9s que tomar leche para producir leche, pero s\u00ed necesit\u00e1s tomar mucha agua limpia y segura. No tomes demasiado caf\u00e9 ni gaseosas. 1 o 2 vasos de estos al d\u00eda es m\u00e1s que suficiente.\r\n\r\nSi no quer\u00e9s comer, eso podr\u00eda ser se\u00f1al de que necesit\u00e1s ayuda. Si te cuesta mucho trabajo comer y te est\u00e1s forzando a hacerlo, habl\u00e1 con tu profesional de la salud. \r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 37, 
+  "position": 38, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "eat-more-food-now", 
   "uuid": "52a2471fd937419ba40583170b647c3f"
