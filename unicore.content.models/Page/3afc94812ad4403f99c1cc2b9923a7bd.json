@@ -1,0 +1,29 @@
+{
+  "subtitle": "SPA Why am I so tired?", 
+  "description": "El cansancio es normal en el embarazo", 
+  "language": "spa_CO", 
+  "title": "\u00bfPor qu\u00e9 estoy tan cansada?", 
+  "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
+  "created_at": "2015-04-07T08:32:21.793804+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-07T08:32:21.802395+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nS\u00ed, es normal estar cansada. \u00a1No sos la \u00fanica! Muchas futuras mam\u00e1s se sienten igual. Estar embarazada  hace que todo tu cuerpo realice un gran esfuerzo. Esto puede hacerte sentir muy cansada. Incluso si te gusta ir a dormir tarde, es posible que ahora te sea dif\u00edcil mantenerte despierta m\u00e1s all\u00e1 de las primeras horas de la noche.\r\n\r\nEn las primeras etapas del embarazo, podr\u00edas sentirte cansada todo el tiempo. Tu cuerpo est\u00e1 usando mucha energ\u00eda y alimento para formar a tu diminuto beb\u00e9; pero hacia los 3 meses de embarazo te vas a sentir menos cansada.\r\n\r\nTus niveles hormonales y tu necesidad de energ\u00eda tambi\u00e9n est\u00e1n cambiando r\u00e1pidamente. El nivel de az\u00facar en tu sangre y tu presi\u00f3n sangu\u00ednea  podr\u00edan estar m\u00e1s bajos. Todo esto contribuye al cansancio.\r\n\r\nTener bajos niveles de hierro  puede hacer que te sientas cansada. Trat\u00e1 de tomarte una tableta de hierro todos los d\u00edas. Esto evitar\u00e1 que te pongas an\u00e9mica, que es cuando no ten\u00e9s suficiente hierro en la sangre. Si tus niveles de hierro est\u00e1n muy bajos, te sentir\u00e1s incluso m\u00e1s cansada y te faltar\u00e1 energ\u00eda.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-why-am-i-so-tired", 
+  "uuid": "3afc94812ad4403f99c1cc2b9923a7bd"
+}
