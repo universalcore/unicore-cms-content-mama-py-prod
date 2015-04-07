@@ -6,15 +6,19 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:29:25+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T12:37:18.302057+00:00", 
+  "modified_at": "2015-04-07T12:37:22.847415+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "03e000a90b144efd8bde69285e24f6e0", 
+    "72d8ec79b95048ab86e10d09600f071a", 
+    "a906622e07624628a227dfb996f61557"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nSi alguien en tu familia tiene tuberculosis (TB), todos deben hacerse la prueba. El tratamiento los proteger\u00e1 a vos y a tu beb\u00e9. \r\n\r\nMantenete alerta a las se\u00f1ales de TB en tu propio cuerpo y en las personas que te rodean. La TB es una enfermedad que puede ser muy peligrosa. Se transmite a trav\u00e9s del aire al toser y estornudar y puede quedarse en el aire durante mucho tiempo.\r\n\r\nSi ten\u00e9s tos durante m\u00e1s de 2 semanas o has bajado de peso de repente, andate a tu puesto de salud. All\u00ed podr\u00e1n revisar si ten\u00e9s TB y te podr\u00e1n dar las medicinas necesarias. \r\n\r\nSi te tom\u00e1s todas las medicinas, pod\u00e9s acabar por completo con la tuberculosis. Dejar de tomarlas antes de acabarlas podr\u00eda hacer que regrese la TB.\r\n\r\nCuando est\u00e1s embarazada, es m\u00e1s f\u00e1cil contraer tuberculosis. Trat\u00e1 de cuidarte m\u00e1s de lo normal comiendo bien, y no vayas a lugares muy llenos de gente. Alejate de personas que est\u00e9n tosiendo y estornudando.\r\n\r\nSi alguien en tu familia tiene tuberculosis, dejar\u00e1n de ser contagiosos despu\u00e9s de tomar su medicina durante 2 semanas. Pediles que se cubran la boca y la nariz cuando tosan y estornuden, y que se laven las manos con regularidad.\r\n\r\n", 
   "source": null, 
