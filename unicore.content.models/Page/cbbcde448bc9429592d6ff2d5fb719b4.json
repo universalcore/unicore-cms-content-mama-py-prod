@@ -1,22 +1,22 @@
 {
-  "subtitle": "SPA ", 
-  "description": "", 
+  "subtitle": "SPA Words about pregnancy and birth", 
+  "description": "Estas palabras podr\u00edan ser nuevas para vos", 
   "language": "spa_CO", 
-  "title": "104", 
-  "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
-  "created_at": "2015-04-07T10:25:30.208481+00:00", 
+  "title": "Palabras sobre el embarazo y el parto", 
+  "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
+  "created_at": "2015-04-07T10:25:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T10:25:30.209019+00:00", 
+  "modified_at": "2015-04-07T11:50:21.855641+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n**\u00c1cido f\u00f3lico**: Es una vitamina. Ayuda a proteger a tu beb\u00e9 de desarrollar defectos en la espina dorsal llamados espina b\u00edfida.\r\n\r\n**Anticuerpos**: Son prote\u00ednas producidas por el sistema inmunol\u00f3gico (el que te defiende de las enfermedades) cuando hay una sustancia da\u00f1ina en tu cuerpo, como bacterias o virus. Cada tipo de anticuerpos es \u00fanico y defiende al cuerpo contra un tipo espec\u00edfico de sustancia da\u00f1ina.\r\n\r\n**Carbohidratos**: Son alimentos ricos en almid\u00f3n, que te llenan mucho y te dan energ\u00eda.\r\n\r\n**Contracciones**: Estas suceden cuando la matriz se pone tensa y se relaja durante el trabajo de parto. Se sienten como un c\u00f3lico del periodo muy fuerte. Las contracciones mueven a tu beb\u00e9 poco a poco por el canal del parto para que nazca.\r\n\r\n**Cuello de la matriz**: La apertura de tu \u00fatero. El cuello de tu matriz se abre mucho durante el trabajo de parto para que pueda nacer tu beb\u00e9.\r\n\r\n**Deshidratado/a**: Esto significa que tu cuerpo no tiene suficiente agua para seguir adelante. \r\n\r\n**Hormonas**: Estas sustancias qu\u00edmicas llevan mensajes por todo tu cuerpo. Se mueven en tu torrente sangu\u00edneo (en tu sangre) desde los lugares especiales donde se producen, llamados gl\u00e1ndulas, a tus tejidos y tus \u00f3rganos. Trabajan lentamente, con el tiempo, y afectan muchas cosas diferentes en tu cuerpo, como el crecimiento y el desarrollo, tu humor, sexo, embarazo y parto.\r\n\r\n**Placenta**: Es la parte de tu cuerpo que alimenta a tu beb\u00e9 y lo mantiene vivo en la matriz.\r\n\r\n**Preeclampsia**: Es cuando te sube de repente la presi\u00f3n, lo cual puede pasar despu\u00e9s de 20 semanas de embarazo. Puede ser peligrosa para vos y para tu beb\u00e9, y podr\u00eda significar que tu beb\u00e9 necesita nacer antes de tiempo.\r\n\r\n**Presi\u00f3n arterial**: Esta es la presi\u00f3n en tus vasos sangu\u00edneos (donde circula la sangre) cuando tu coraz\u00f3n bombea sangre a tu cuerpo. Medir esta presi\u00f3n puede ayudar a los profesionales de la salud a saber cu\u00e1ndo est\u00e1s enferma.\r\n\r\n**Prote\u00edna**: Las prote\u00ednas son alimentos esenciales para formar el cuerpo.\r\n\r\n**Vagina**: El canal que va del cuello de la matriz hasta afuera de tu cuerpo. A veces se le llama el canal de nacimiento.\r\n\r\n**Vejiga**: El lugar donde se junta la orina.\r\n\r\n**Vitaminas**: Se encuentran en los alimentos. Tu cuerpo necesita muchas vitaminas diferentes para mantenerse sano.\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "104", 
+  "slug": "words-about-pregnancy-and-birth", 
   "uuid": "cbbcde448bc9429592d6ff2d5fb719b4"
 }
