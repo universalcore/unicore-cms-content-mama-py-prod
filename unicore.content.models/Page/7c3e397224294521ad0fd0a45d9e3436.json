@@ -4,14 +4,14 @@
   "language": "spa_CO", 
   "title": "Tus sentimientos despu\u00e9s de la p\u00e9rdida de un embarazo", 
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
-  "created_at": "2015-04-07T09:27:08.489842+00:00", 
+  "created_at": "2015-04-07T09:27:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T09:27:08.501693+00:00", 
+  "modified_at": "2015-04-07T12:31:49.688049+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 86, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-your-feelings-after-pregnancy-loss", 
   "uuid": "7c3e397224294521ad0fd0a45d9e3436"
