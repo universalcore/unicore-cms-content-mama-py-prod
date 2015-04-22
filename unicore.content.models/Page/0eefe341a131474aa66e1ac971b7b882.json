@@ -6,15 +6,18 @@
   "primary_category": "2efb788268154aae82057ce2445cb7d3", 
   "created_at": "2015-04-16T08:24:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T10:21:34.274701+00:00", 
+  "modified_at": "2015-04-22T08:19:02.604665+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "70aa4386ce65428db3a045cb2a76c8da", 
+    "28b65a3953c54802a1a1bbfdde750cee"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nK\u00f3icha ikatu enoh\u00ea ne kamby\r\n\r\nEheka pete\u00ee jarra t\u00e9r\u00e2 tasa tuichami. Ejoh\u00e9 y por\u00e2 ha y jugye pe ojuka hagua microbio. Ejoh\u00e9i nde po ha eguapy py aguapype, remokamb\u00fata ramo guaicha ne memby\u2019i.\r\n\r\nEipichypyti\u2019a mbeguekatu ne kamaapy\u00ee kup\u00e9pe emongu\u2019e hagu\u00e2  kamby rape o\u00eeva hyep\u00fdpe ha ipypuku.\r\n\r\nUp\u00e9i ne ku\u00e2 ind\u00edce ha pulgarpe, emongora mbyte ne kama jer\u00e9re. Ejopy vevuimi, eipapa mbohapy peve ha epoi.\r\n\r\nEjopy ha epoi continuado os\u00eameve ne kamby. Ne paciencia ar\u00e2, ikatu hi\u2019aremi. Epensa ne mit\u00e2me ha ikatu os\u00ea pe kamby.\r\n\r\nOs\u00ea ramo menomie kamby nde tit\u00edgui, e\u00f1ami ambu\u00e9gui.\r\n\r\nRenoh\u00ea rire ne kamby, etapa pe mba\u2019yru remono\u2019\u00f4 hague ha etapa pete\u00ee tapa pot\u00eeme. K\u00f3va orek\u00f3ta mombyry microbios, vicho chu\u2019i ha otimb\u00f3va, nde kamagui.\r\n\r\nEheka pete\u00ee tenda ipiro\u2019\u00fdva re\u00f1ongatu hagu\u00e2 ne kamby. Nde reguerek\u00f3i ramo heladera, eheka pete\u00ee tenda ipiro\u2019\u00fdva, ani ojope kuarahy ha haku. Ikatu e\u00f1ongatu ne kamby 6 horas peve.\r\n\r\nHasyeterei ramo enoh\u00ea hagu\u00e2 ne kamby, nemandu\u2019a ke ne kamby ipor\u00e2iterei ne membype guar\u00e2! \u00a1Hetave reprocura ramo, ndahasymo\u2019\u00e1i ha pya\u2019ev\u00e9ta os\u00ea!\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 39, 
+  "position": 35, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-squeeze-out", 
   "uuid": "0eefe341a131474aa66e1ac971b7b882"
