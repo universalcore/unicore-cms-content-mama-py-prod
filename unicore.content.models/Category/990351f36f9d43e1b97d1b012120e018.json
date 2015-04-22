@@ -2,19 +2,19 @@
   "subtitle": "pregnancy_grn", 
   "uuid": "990351f36f9d43e1b97d1b012120e018", 
   "language": "grn_PY", 
-  "title": "pregnancy_grn", 
+  "title": "Tyeguasu - Puru\u2019\u00e2", 
   "image": null, 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "pregnancy_grn", 
   "source": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "featured_in_navbar": false, 
+  "featured_in_navbar": true, 
   "id": null
 }
