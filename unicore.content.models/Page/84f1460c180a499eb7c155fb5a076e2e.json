@@ -6,15 +6,19 @@
   "primary_category": "2efb788268154aae82057ce2445cb7d3", 
   "created_at": "2015-04-16T08:26:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T10:32:10.355151+00:00", 
+  "modified_at": "2015-04-22T08:19:01.490539+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "50c2bc351aac4e48af51e11a77db81a8", 
+    "9c692711606942029a959d3996f365df", 
+    "cea30cfe65044c26b7214d9a17c8632c"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nEikotev\u1ebd ejaho\u2019i hagu\u00e3 mit\u00e3 ra\u2019y pete\u00ee ahoja tuicha pot\u00ee por\u00e3va. Emuas\u00e1i pe manta tupa\u2019ari ha embojoyvy romboicha ipunta yvate gotyo. Embojoyvy jey pe manta punta. Pe tenda ari emo\u00f1eno ne mita ijuru yvate gotyo\r\n\r\nEjoko ne memby jyva (sin doblar) hete yk\u00e9re ha eitir\u00e1 i\u00f1esqu\u00edna asu gotyo mantagui ijyva derecho \u00e1ri ha ecrusa hete \u00e1ri. Up\u00e9i emoinge manta ijyva asu pa\u2019\u00fbme ha het\u00e9re, ha ejapajere mit\u00e2me asu gotyo lado, ikatu hagu\u00e2icha remoinge manta ijatukup\u00e9pe. Ejaho\u2019i por\u00e2, ha ejeasegura ne mit\u00e2 ikatu omomyi humby ha omokar\u00ea yvate gotyo ha oka gotyo.\r\n\r\nEjoko ijyva asu mit\u00e2gui ha eipyso pe esquina yvy gotyo ha yvate gotyo, hi\u2019ati\u2019y \u00e1ri. Hemby ramo manta embojoyvy ijyva asu gu\u00fdpe.\r\n\r\nEipyso pe esquina akat\u00favape ojepoiva, eitir\u00e1 ne memby \u00e1ri upe ambue lado ha embojere mich\u00eemi nde akat\u00faa ladope, ikatu hagu\u00e2icha ejaho\u2019i ne mita ape jer\u00e9re.\r\n\r\nEjesareko ani rejopyeterei pe trapo t\u00e9r\u00e2 manta, ne mit\u00e2 ikatu ojeahoga.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 28, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-how-to-swaddle", 
   "uuid": "84f1460c180a499eb7c155fb5a076e2e"
