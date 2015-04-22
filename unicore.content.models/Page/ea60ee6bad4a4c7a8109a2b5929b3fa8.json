@@ -6,15 +6,22 @@
   "primary_category": "990351f36f9d43e1b97d1b012120e018", 
   "created_at": "2015-04-16T08:20:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T09:07:35.657493+00:00", 
+  "modified_at": "2015-04-22T08:19:45.473409+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "51a7fcd290af42358cf838b6c88bbdcb", 
+    "649794fd2ab44265ae00628edff77c26", 
+    "793db66b2af8414fbaaa08e0ecc7626d", 
+    "7c2b274eaa2c422b8152f81bc9f552de", 
+    "f907fd503fab47a098b6533b722dc58e", 
+    "1aadc7dfd2e24be4821a1f0b9b482166"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nNde ryeguasu jave, nanderasys\u00e9i.\r\n\r\nEjoh\u00e9i manterei nde po, y ha hav\u00f4 rehe. Ejerure ne  genteku\u00e9rape tojepoh\u00e9i pora avei ha\u2019ekuera. Nde po pot\u00ee ramo ikatu repi\u00e2 mba\u2019as\u00fdgui,  pulmon\u00eda ha tye chivivi.\r\n\r\nEjepoh\u00e9i:\r\n\r\n - \tReguah\u00ea ramo nde r\u00f3gape\r\n\r\n - \tBa\u00f1ope reipuru rire\r\n\r\n - \tMymbaku\u00e9ra repoko rire\r\n\r\n - \tRecocina mboyve\r\n\r\n - \tEpoko rire ryguasu upi\u2019a, so\u2019o, t\u00e9r\u00e2 pira \r\n\r\n - \tRekaru mboyve\r\n\r\n - \tReviaja rire colectiv\u00f3pe\r\n\r\nP\u00e9icha rejapo\u2019ar\u00e2\r\n\r\n - \tTekotev\u00ea y pot\u00ee ha hav\u00f4 \r\n\r\n - \tHeta emona hav\u00f4 nde popyt\u00e9pe\r\n\r\n - \tEikyty por\u00e2 nde po, popyte o\u00f1ondie, hyj\u00fdi hagu\u00e2.\r\n\r\n - \tEmbojere por\u00e2 la hav\u00f4 nde p\u00f3pe hyj\u00fai para hagua.\r\n\r\n - \tEjoh\u00e9i entero nde ku\u00e2 \r\n\r\n - \tAvei nde po yvateguio lado, nde pyap\u00ea avei.\r\n\r\n - \tEjoh\u00e9i nde po pa\u2019\u00fbme, 15 segundos aja.\r\n\r\n - \tEnoh\u00ea hav\u00f4 y pot\u00ee a\u00f1et\u00e9pe.\r\n\r\n - \tEmok\u00e2 nde po toalla pot\u00eeme\r\n\r\nIkatu reguereko pete\u00ee tenda cocina yp\u00fdpe t\u00ear\u00e2 ba\u00f1o gotyo rejoh\u00e9i hagu\u00e2 nde po.\r\n\r\nRejoh\u00e9i  por\u00e1ramo nde po, ikat\u00fama rejehek\u00fdi mba\u2019asygui.\r\n\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 81, 
+  "position": 31, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-why-wash-hands", 
   "uuid": "ea60ee6bad4a4c7a8109a2b5929b3fa8"
