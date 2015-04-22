@@ -6,15 +6,19 @@
   "primary_category": "2efb788268154aae82057ce2445cb7d3", 
   "created_at": "2015-04-16T08:24:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T10:07:28.130411+00:00", 
+  "modified_at": "2015-04-22T08:19:03.522660+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9cdd883b79364045b2926ee3b693b74d", 
+    "4aab58b6d5be44079ddeb57fcbdcbbaa", 
+    "03d95f0c034148ba83563ce3a76c4f6d"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\n\u00a1Onac\u00e9ma ne memby\u00a1!  Ko\u2019\u00e1ga \u00a1emokambuta! Nde kamby ha\u2019e iporaveva chupe guara.\r\n\r\nEmokamb\u00fata ne memb\u00fdpe. Ko\u2019\u00e2 ipora eguereko hagua kamby ha avei eme\u2019eta chupe \u201ccalostro\u201d, pea i\u00f1importante, ha avei pua\u2019eve ne momguerata.\r\n\r\nKamby \u00f1epyruha hypy\u2019u ve ha\u2019i color sa\u2019yju. P\u00e9a h\u00e9rava calostro. E\u00f1and\u00fata kamby ochorova ne pyti\u2019\u00e1re.\r\n\r\nCalostro petei jop\u00f3i ipor\u00e1va mit\u00e1me guara \u00a1Ipora vacunaicha! \r\n\r\nOreko heta mba\u2019e iporava o\u00f1angarek\u00f3va mita heta mba\u2019as\u00fdgui.\r\n\r\nEmokambu vaera una hora mboyve orek\u00f3ro onacerire. P\u00e9a ome\u2019\u00e9ta chupe mbarete ha hesa\u2019i. Ndeikat\u00fai eme\u2019e chupe oimerae mba\u2019e re\u2019i; p\u00e9a ombohasyta mita.\r\n\r\nMita \u00f1emokambu ipor\u00e2v\u00e9va omombarete imbarete hagua mita. Okamb\u00favaera 6 mese peve. Sy kamby iporave, ha ndojejoguay.\r\n\r\nErek\u00f3ramo VIH, ne memby\u2019i  ho\u2019\u00favaera  poha (antirretrovirales, ARV) Umi poha o\u00f1angarek\u00f3ta hese. Ho\u2019\u00favaer\u00e2 py\u2019\u00fdi.\r\n\r\nEguerek\u00f3ramo  \u00f1eporandu, e\u00f1e\u2019\u00ea nde doctor ndive.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 48, 
+  "position": 44, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-first-milk-is-best", 
   "uuid": "b8583c2f6e1047a48b43f817f10ec91c"
