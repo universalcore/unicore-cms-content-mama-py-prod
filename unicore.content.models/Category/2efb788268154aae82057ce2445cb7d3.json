@@ -1,20 +1,20 @@
 {
-  "subtitle": "baby_grn", 
+  "subtitle": "Mit\u00e2 ra\u2019y - Memby\u2019i", 
   "uuid": "2efb788268154aae82057ce2445cb7d3", 
   "language": "grn_PY", 
-  "title": "baby_grn ", 
+  "title": "Mit\u00e2 ra\u2019y - Memby\u2019i", 
   "image": null, 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "baby_grn", 
   "source": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "featured_in_navbar": false, 
+  "featured_in_navbar": true, 
   "id": null
 }
