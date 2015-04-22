@@ -6,15 +6,22 @@
   "primary_category": "990351f36f9d43e1b97d1b012120e018", 
   "created_at": "2015-04-16T08:23:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T10:03:22.908792+00:00", 
+  "modified_at": "2015-04-22T08:19:41.488686+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "03d95f0c034148ba83563ce3a76c4f6d", 
+    "886ab9820772434087c5dc2c05fafb3e", 
+    "25153e9d296a4735a93ed74ccf7a7ff1", 
+    "e13e31588d984c69b929cc92c89efa8c", 
+    "b8583c2f6e1047a48b43f817f10ec91c", 
+    "982dd2bcc5494efd86a782129669e4cc"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nE\u00f1and\u00faramo hasy tera rehech\u00e1ramo ose tyguymi  ichugui, chaque, eh\u00f3vaera puesto de salud aguive\u2019ha; pya\u2019e va\u2019era.\r\n\r\n**Nde:**\r\n\r\n - \tChaque ehecharamo os\u00ea  y  ichugui ojeka pe mit\u00e2 aho\u2019iha  (las aguas), ha up\u00e9i, 6 hora rire ne\u2019\u00edra gueteri  o\u00f1epyr\u00fb mit\u00e2 onace hagu\u00e2.\r\n\r\n - \tChaque nde contraccionkuera ohasave  12 hora, ha mita ne\u2019ira onace.\r\n\r\n - \tChaque  e\u00f1and\u00faramo nde rasy ha rehech\u00e1ramo  nde ruguyha ha  pe tyguy omyaky 2 tera 3 modes  mie 15 min\u00fatope.\r\n\r\n - \tChaque 1 hora ohas\u00e1ro onac\u00e9guie mita ha nos\u00e9iramo  mita ryrukue.\r\n\r\n**Ne memby:**\r\n\r\n - \tChaque ehech\u00e1ramo ne memby na ikat\u00fairamo hase tera ipytuhe hasy.\r\n\r\n - \tChaque ehech\u00e1ramo ne memby ndaikat\u00fai okambu.\r\n\r\n - \tChaque ne memby michietere\u00edramo  (o pesa menos de 1 kilo y medio, ter\u00e2 onace 32 semana mboyve).\r\n\r\n - \tChaque ne memby orek\u00f3ramo atake.\r\n\r\n - \tChake ehech\u00e1ramo ne memby i\u00f1akanundu tera ho'ysamba.\r\n\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 50, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-danger-signs", 
   "uuid": "528962af0b5a40d8a7e6f5e6b2d5abab"
