@@ -6,15 +6,17 @@
   "primary_category": "2efb788268154aae82057ce2445cb7d3", 
   "created_at": "2015-04-16T08:28:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T10:47:51.807522+00:00", 
+  "modified_at": "2015-04-22T08:18:59.326768+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "01b53c4b960444af806ebad7d83fa37a"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nKo\u2019\u00e2va ha\u2019e 4 laya ikatu hagu\u00e2 o\u00ee kyhyje\u2019yre  ne mit\u00e2 ra\u2019y:\r\n\r\n - \tEma\u00f1a nde r\u00f3gare opa \u00e1ra rehecha hagu\u00e2 mba\u2019\u00e9pa o\u00ee ne memby ohupyty laya. Ejeasegura ani o\u00ee mba\u2019e mich\u00ee ikatu ojeahoga hagu\u00e2icha, monedas, plata, mam\u00f4 ohupytykuaa\u00edcha.\r\n\r\n - \tE\u00f1ongatu mba\u2019e ha\u00eemb\u00e9va: kyse, jetapa, ryguasu rague, ha ambue mba\u2019e oje\u2019u t\u00e8r\u00e2 hoy\u2019u kua\u00e1va ipeligrova.\r\n\r\n - \tErevisa ani o\u00ee ikat\u00fava ho\u2019a ne memby \u00e1ri. Ema\u2019\u00ea por\u00e2ke opa mba\u2019e iseguro por\u00e2. Opa cable el\u00e9ctrico, s\u00e2, cables ikat\u00fava o\u00f1e\u00f1ongatu ar\u00e2, mamo ndikat\u00fai ohupyty ne mit\u00e2!\r\n\r\n - \tEguereko ne memb\u00fdpe mombyry tata ha \u00fdgui.Ne mit\u00e2 ovichease, ikatu opoko tat\u00e1re ha ok\u00e1i. Ejeasegur\u00e1ke ani opoko mba\u2019e aku recocina aja. Emongora pe tenda. Mombyry ejere japepo, pava ak\u00fagui, t\u00e9r\u00e2 ambue mba\u2019eyru tuicha o\u00f1ongat\u00fava y. Etapa por\u00e2 ani ne memby ho\u2019a pype.\r\n\r\n - \t\u00a1Ne mandu\u2019\u00e1ke ne memby o\u00f1epyr\u00fb ramo o\u00f1embo\u2019y ha oguata, ojupis\u00e9ta yvate! Ejeasegura umi cable, ha opa mba\u2019e ipeligrova ani ikatu ohupyty, ha ani ho\u2019a mesa ha apyk\u00e1gui. \r\n\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 8, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-keep-baby-safe", 
   "uuid": "159bfdf9449948d5a8fd55696057d536"
