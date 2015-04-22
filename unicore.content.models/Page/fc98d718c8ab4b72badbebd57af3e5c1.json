@@ -6,15 +6,19 @@
   "primary_category": "990351f36f9d43e1b97d1b012120e018", 
   "created_at": "2015-04-16T08:18:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T08:52:20.404026+00:00", 
+  "modified_at": "2015-04-22T08:19:46.693870+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "03d95f0c034148ba83563ce3a76c4f6d", 
+    "649794fd2ab44265ae00628edff77c26", 
+    "04f80ce0afa3420db98cc4cba5267a6e"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nNe mit\u00e2mi okakuaa oh\u00f3vo nde kuaruha \u00e1ri (o\u00f1embyatyha  \u00f1ande ty ja kuaru mboyve) Mit\u00e2mi poh\u00fdikue ojopy, up\u00e9vare rekuaruve tapia. Up\u00e9va ojehu meme ryeguasu jave.  Ak\u00f3i hey\u2019uve ar\u00e2, ani rehejati. Reikotev\u00ea ne res\u00e1i hagu\u00e2.\r\n\r\nHasy ramo rekuaru jave, ikatu nde jagarra mba\u2019asy ov\u00e1va. P\u00e9va ikatu nemoakanundu, t\u00e9r\u00e2 nde ro\u2019y sapy\u2019a ha nde mbyry\u00e1i. Ambue se\u00f1a ha\u2019e: ojekuaa tuguy nde t\u00fdpe, re\u00f1e\u00f1andu vai  ha eryry\u00edpa. Avei hasy nd\u00e9ve reiko ramo kuimba\u2019e ndive.\r\n\r\nI\u00f1import\u00e1nte rejetrata, tereho poh\u00e2noh\u00e1ra rend\u00e1pe. Mymba chu\u2019i o\u00eeva nde t\u00fdpe  o\u00f1einfectakuaa nde ri\u00f1onme, up\u00e9va ikatu ou vai nd\u00e9ve ha ne memb\u00fdpe.\r\n\r\nIkatu  ejehek\u00fdi infecci\u00f3ngui k\u00f3icha:\r\n\r\n - \tReipuru rire ba\u00f1o, e\u00f1emopot\u00ee tenond\u00e9gui ha tapykue gotyo t\u00e9r\u00e2 y reheve e\u00f1emopot\u00ee ha eiporu hav\u00f4.\r\n\r\n - \tHeta hey\u2019u ar\u00e2; y pot\u00ee por\u00e2. Up\u00e9va omote\u2019\u00f4ta infecci\u00f3n ku\u00e9ra.\r\n\r\n - \tAni rejejoko rekuaruse ramo.\r\n\r\n - \tReiko rire kuimba\u2019e ndive ekuaru ikatu ramo, peicha osyryta vicho\u2019i ku\u00e9ra.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 93, 
+  "position": 43, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-it-hurts-when-urinate", 
   "uuid": "fc98d718c8ab4b72badbebd57af3e5c1"
