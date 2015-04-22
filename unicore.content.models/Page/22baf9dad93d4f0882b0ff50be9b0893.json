@@ -6,15 +6,19 @@
   "primary_category": "2efb788268154aae82057ce2445cb7d3", 
   "created_at": "2015-04-16T08:27:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-16T10:40:40.314994+00:00", 
+  "modified_at": "2015-04-22T08:19:00.358649+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c83c1504ca614797a20c625230c96c50", 
+    "9425690af1484c87ae3866ea45a16b8e", 
+    "1230005d5378491cb214df5b2cbdc069"
+  ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nMit\u00e2 kuimba\u2019e ha mitaku\u00f1a\u2019i oikotev\u00ea joja alimento.\r\n\r\nSeis mese jave, oikotev\u00ea ne  kamby a\u00f1\u00f3nte. Upe rire katu, ikatu mbeguekat\u00fape remo\u00eeve hetave alimento reme\u2019\u00eava ne memb\u00fdpe. Oikotev\u00eata gueteri ne kamby omboty peve 2 a\u00f1o.\r\n\r\nUp\u00e9icha ikatu rejapo:\r\n\r\n**Seis mes\u00e9pe**: Ne kamby ha\u2019e gueteri alimento ipor\u00e2v\u00e9va ne memb\u00fdpe guar\u00e2, \u00e1g\u00e2 ikat\u00fama ho\u2019u ambue alimento. Eme\u2019\u00ea chupe pe tembi\u2019u ho\u2019\u00fava ne genteku\u00e9ra, \u00e1g\u00e2 ejoso pyre, mok\u00f4i vece jave, 2 kucha al d\u00eda, 2 kucha cada tembi\u2019\u00fape ipor\u00e2ma. Ikatu remongaru ho\u2019uva ne genteku\u00e9ra, ag\u00e2 ejeasegura ani oguereko pimienta ha ejoso por\u00e2. Ani remo\u00ee juky hembi\u2019\u00fape. E\u00f1epyr\u00fb eme\u2019\u00ea chupe yvaku\u00e9ra, manzana ha pakova, ka\u2019avo zanahoria, kurapep\u00ea ha papa. Ani c\u00edtricos gueteri.\r\n\r\n**8 mese de edad**: Ne memby oikotev\u00eata 3 tembi\u2019u por d\u00eda. Emo\u00eeve mbeguekatu alimentoku\u00e9rape  reme\u2019\u00eava chupe mbohapy kucha.\r\n\r\n**9 mese de edad**: Epyta ko\u2019ag\u00e2. Pete\u00ee hembi\u2019upe tekotev\u00ea reimo\u00ee henyhe peve media tasa de alimento Ambue mok\u00f4i hembi\u2019\u00fape guar\u00e2, econtin\u00faa eme\u2019\u00ea chupe 3 kucha de alimento. Ko edadpe ikat\u00fama ojagarra hembi\u2019u iku\u00e2\u2019i apyt\u00e9pe, eme\u2019\u00ea chupe tembi\u2019u mich\u00ee mich\u00ee ojagarra hagu\u00e2.\r\n\r\n**10 mesepe**: Eme\u2019\u00ea ne memb\u00fdpe 2 tasas de alimento al d\u00eda. Ambue hembi\u2019\u00fape guar\u00e2 oikotev\u00eata algunas kucha a\u00f1o.\r\n\r\n**1 a\u00f1o**: Oikotev\u00eata 3 t\u00e9r\u00e2 4  medio tasa alimentogui cada d\u00eda, umi tembi\u2019u je\u2019u pa\u2019\u00fbme ho\u2019uva\u2019er\u00e2  alguna cosa mimi. Up\u00e9i, ambue a\u00f1\u00f3pe, mbeguekat\u00fape henyh\u00ea\u2019ar\u00e2 pe tasa guasu, oje\u2019\u00e9va taz\u00f3n.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 16, 
+  "position": 15, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-how-much-food", 
   "uuid": "22baf9dad93d4f0882b0ff50be9b0893"
