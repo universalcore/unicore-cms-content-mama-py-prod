@@ -6,12 +6,12 @@
   "primary_category": "6ea87bde7d1b4c4eba3668a538a9d9c2", 
   "created_at": "2015-04-16T08:28:39+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-13T12:00:52.059031+00:00", 
+  "modified_at": "2015-12-14T10:01:48.004374+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 6, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-baby-is-on-the-move", 
   "uuid": "01b53c4b960444af806ebad7d83fa37a"
