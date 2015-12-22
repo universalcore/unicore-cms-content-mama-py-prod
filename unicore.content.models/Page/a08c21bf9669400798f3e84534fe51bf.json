@@ -2,16 +2,16 @@
   "subtitle": "GRN Month 7", 
   "description": "Ejeprepar\u00e1 ne memby\u2019i he\u00f1\u00f3i ramo guar\u00e2", 
   "language": "grn_PY", 
-  "title": "JASY POK\u00d4I", 
+  "title": "Jasy pok\u00f4i", 
   "primary_category": "990351f36f9d43e1b97d1b012120e018", 
   "created_at": "2015-04-15T11:12:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T08:19:48.213303+00:00", 
+  "modified_at": "2015-12-22T10:16:38.001268+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
