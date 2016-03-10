@@ -6,12 +6,12 @@
   "primary_category": "ab14cfe53d924b6a9cf87e2546433f0b", 
   "created_at": "2015-04-07T09:24:53+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-13T11:53:54.864898+00:00", 
+  "modified_at": "2016-03-10T14:02:49.610191+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -31,7 +31,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 88, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-warning-signs", 
   "uuid": "dce094742f4741e28a1dd34ea5f3d617"
