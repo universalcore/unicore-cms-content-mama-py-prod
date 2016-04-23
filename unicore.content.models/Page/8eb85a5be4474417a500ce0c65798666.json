@@ -6,19 +6,19 @@
   "primary_category": "990351f36f9d43e1b97d1b012120e018", 
   "created_at": "2015-04-16T08:18:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T08:19:47.216374+00:00", 
+  "modified_at": "2016-04-23T11:21:32.708053+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "1aadc7dfd2e24be4821a1f0b9b482166", 
-    "27640a7a3f35401ea34c7e28e4691287", 
     "03d95f0c034148ba83563ce3a76c4f6d", 
-    "325a53e83d504378994e925fd2fa861f"
+    "27640a7a3f35401ea34c7e28e4691287", 
+    "325a53e83d504378994e925fd2fa861f", 
+    "1aadc7dfd2e24be4821a1f0b9b482166"
   ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nNe puru\u2019a jave, ipor\u00e2 reho rejehechauka poh\u00e2noh\u00e1rape.Ipor\u00e2ve reho ramo 5 jevy nde ryeguasu jave.E\u00f1eha\u2019\u00e2 tereho ndoguej\u00fdi rire pe ne primer periodo.\r\n\r\nIpor\u00e2 reho rejehechauka katuete ko\u2019\u00e2 mba\u2019\u00e9gui:\r\n\r\n - \tRevisi\u00f3n aja, pete\u00ee poh\u00e2noh\u00e1ra oviche\u00e1ta oikuaa hagua, peimepor\u00e1pa mok\u00f6iv\u00e9va.\r\n\r\n - \tO\u00ee ramo problema nde puru\u2019\u00e2 aja, poh\u00e2noh\u00e1ra voi otop\u00e1ta. Up\u00e9icha   ikat\u00fata re\u00f1epohano por\u00e4ve nde ha ne memby, pene res\u00e4ive hagu\u00e4. \r\n\r\n - \tReporandus\u00e9ramo ryeguasu rehegua, ipor\u00e2 reporandu poh\u00e2noh\u00e1rape, ha\u2019\u00e9mante ndojavymo\u2019\u00e2i ha ombohov\u00e1ita nd\u00e9ve hekopete.\r\n\r\n - \tPahanoh\u00e1ra ome\u2019\u00ebta nd\u00e9ve poha ku\u00e9ra: hierro, \u00e1cido f\u00f3lico. Ko\u2019\u00e4va ne mombaret\u00e9ta, ha omongakua\u00e1ta ne memby ra\u2019\u00fdpe.\r\n\r\n - \tReik\u00f3ta py\u2019aguap\u00fdpe ne memby okakuaa por\u00e2 ramo.\r\n\r\nEporandu mam\u00f3pa o\u00ee poh\u00e2noh\u00e1ra, t\u00e9r\u00e2 tasyo agu\u00ee por\u00e2. Emombe\u2019u nde rogaygu\u00e2pe mba\u2019\u00e9repa reho vaer\u00e2 tapiaite nde ryeguasu aja. Ta nde pytyv\u00f4 reikotev\u00eata ramo mba\u2019eyru.\r\n\r\nRejepy\u2019ap\u00fdramo, ejerure ne memby r\u00fape, t\u00e9r\u00e2 ambue ne pehengue, t\u00e9ra ne am\u00edgape, ta nemoir\u00fbmi. Mombyry opyt\u00e1r\u00f4 ndehegui, ipor\u00e2 regueraha y ha tembi\u2019umi.\r\n\r\n", 
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 48, 
+  "position": 47, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-why-do-i-need", 
   "uuid": "8eb85a5be4474417a500ce0c65798666"
