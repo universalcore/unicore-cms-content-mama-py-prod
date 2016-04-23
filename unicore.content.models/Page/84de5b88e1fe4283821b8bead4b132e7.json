@@ -6,18 +6,18 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:41:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T13:09:36.358351+00:00", 
+  "modified_at": "2016-04-23T11:21:13.531566+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
+    "cbbcde448bc9429592d6ff2d5fb719b4", 
     "efcc2864099841aea27ddb7c7280ab42", 
-    "bdf87530a5c646e888f9110c9079a4a3", 
-    "cbbcde448bc9429592d6ff2d5fb719b4"
+    "bdf87530a5c646e888f9110c9079a4a3"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nLas contracciones de pr\u00e1ctica son para que tu cuerpo se prepare para el parto.\r\n\r\nTu matriz ha estado practicando suavemente desde el segundo mes de tu embarazo,  aproximadamente. A medida que tu matriz crece, notar\u00e1s m\u00e1s ese endurecimiento de tu panza. Cada uno de estos \u201cendurecimientos\u201d o contracciones dura, por lo general, unos 30 segundos.\r\n\r\nSi sent\u00eds una contracci\u00f3n, pon\u00e9 las manos sobre tu panza desnuda. Podr\u00e1s sentir lo dura que se pone tu matriz. Esto es porque la matriz es un m\u00fasculo, y cuando un m\u00fasculo se pone tenso, se pone duro. Cuando acaba la contracci\u00f3n de pr\u00e1ctica, tu matriz se volver\u00e1  a poner suave.\r\n\r\nEn la \u00faltima parte del embarazo, las contracciones de pr\u00e1ctica pueden sentirse muy fuertes. Hasta podr\u00edas pensar que est\u00e1s en el trabajo de parto, a punto de tener a tu beb\u00e9. \u00bfC\u00f3mo saber la diferencia? \r\n\r\n**\u00bfCu\u00e1nto duran?** Las contracciones de pr\u00e1ctica, por lo genera,l s\u00f3lo duran un momento. Luego paran por completo. As\u00ed que esper\u00e1 m\u00e1s o menos una hora, a ver si se van. Las contracciones de pr\u00e1ctica muchas veces paran si te levant\u00e1s y te mov\u00e9s. As\u00ed que ocupate de tus quehaceres de la casa o sal\u00ed a caminar y f\u00edjate si paran.\r\n\r\n**\u00bfSe est\u00e1n volviendo m\u00e1s fuertes?** Las contracciones reales se vuelven m\u00e1s largas y m\u00e1s fuertes a medida que pasa el tiempo. Si tus contracciones se quedan igual y no se hacen m\u00e1s fuertes, seguramente son contracciones de pr\u00e1ctica.\r\n\r\n**\u00bfEst\u00e1n pasando m\u00e1s seguido?** En el trabajo de parto, las contracciones vienen cada vez m\u00e1s seguido. Pueden empezar cada 20 minutos, luego cada 15, luego cada 10 y luego cada 5 minutos. En cambio, el tiempo que pasa entre las contracciones de pr\u00e1ctica generalmente se queda igual. \r\n\r\n", 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 58, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-are-practice-contractions", 
   "uuid": "84de5b88e1fe4283821b8bead4b132e7"
