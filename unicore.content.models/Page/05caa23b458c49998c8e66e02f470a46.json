@@ -6,18 +6,18 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:48:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T13:36:44.252245+00:00", 
+  "modified_at": "2016-04-23T11:21:56.372650+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "e8eedd9ce456491fb7dbf21ab4e6b3f4", 
+    "83fc7a114ed3481994d54079c5847c0d", 
     "73e9c58804654063b5ad62ca7515e3de", 
-    "83fc7a114ed3481994d54079c5847c0d"
+    "e8eedd9ce456491fb7dbf21ab4e6b3f4"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nLa mayor\u00eda de los beb\u00e9s tratan de pararse por primera vez entre los 8 y los 10 meses. Tu beb\u00e9 podr\u00eda agarrarse de tus manos, la pared o un mueble y sujetarse hasta quedar parado.\r\n\r\nAl principio, tu beb\u00e9 necesita agarrarse de vos o de un mueble firme. Para cuando tenga 11 meses, tal vez pueda pararse solito sin que lo agarres. Sonre\u00edle, aplaudile, decile \u00a1muy bien! y abrazale cuando lo haga.\r\n\r\nA medida que tu beb\u00e9 se sienta m\u00e1s seguro, va a empezar a ir de un lado a otro, todav\u00eda agarr\u00e1ndose de los muebles. Cuando pueda hacer esto, \u00a1quiere decir que pronto va a caminar!\r\n\r\nTu beb\u00e9 podr\u00eda pararse f\u00e1cilmente, \u00a1pero tal vez le sea dif\u00edcil volverse a sentar! Pod\u00e9s ense\u00f1ar a tu beb\u00e9 a sentarse cuando est\u00e1 parado. En vez de cargarlo y sentarlo, ense\u00f1ale c\u00f3mo doblar sus rodillas \u00a1y luego animale a que lo haga! Podr\u00eda llevarle unos d\u00edas o algunas semanas aprender a doblar sus rodillas y sentarse.\r\n\r\nQuedate con tu beb\u00e9 cuando ande de un lado a otro. As\u00ed, si se cae, podr\u00e1s asegurarte de que no se lastime. Tambi\u00e9n quiere decir que cuando d\u00e9 su primer paso solo, \u00a1no te lo vas a perder!\r\n\r\nTodos los beb\u00e9s se desarrollan de manera diferente, algunos m\u00e1s r\u00e1pido que otros. Si te preocupa la manera en que se est\u00e1 desarrollando tu beb\u00e9, habla con un profesional de la salud.\r\n\r\n", 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-will-baby-stand-up", 
   "uuid": "05caa23b458c49998c8e66e02f470a46"
