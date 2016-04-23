@@ -6,22 +6,22 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:39:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T13:05:27.493078+00:00", 
+  "modified_at": "2016-04-23T11:21:14.285614+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "40ead08570ad42d49f65bfef13be9897", 
-    "cf08188fe0f04617be35b9c1220f5424", 
-    "f11b0b9703a2413eb4e5999699f6b4b4", 
-    "cc6d5854e46148d583b3421c4df1a73d", 
-    "dd82744bb75f4870b31e960c18c8142c", 
+    "4e94a88caa624ae4bd1a5e2b9e456eee", 
     "8b71f59a9840420da37e9e25274901d1", 
-    "4e94a88caa624ae4bd1a5e2b9e456eee"
+    "dd82744bb75f4870b31e960c18c8142c", 
+    "cc6d5854e46148d583b3421c4df1a73d", 
+    "f11b0b9703a2413eb4e5999699f6b4b4", 
+    "cf08188fe0f04617be35b9c1220f5424", 
+    "40ead08570ad42d49f65bfef13be9897"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nLa mejor regla que hay que recordar es comer cuando tengas hambre. Trata de comer una variedad de alimentos de diferentes colores todos los d\u00edas y subir\u00e1s de peso de manera constante al ir creciendo tu beb\u00e9.\r\n\r\nPodr\u00edas notar que tu apetito cambia durante tu embarazo:\r\n\r\n - \tDurante las primeras semanas podr\u00edas perder el apetito y no tener ganas de comer comidas como debe ser, sobre todo si ten\u00e9s n\u00e1useas o est\u00e1s vomitando.\r\n\r\n - \tDurante la mitad de tu embarazo, tu apetito podr\u00eda ser igual que antes de estar embarazada o ser un poquito mayor.\r\n\r\n - \tHacia el final de tu embarazo, tu apetito probablemente aumentar\u00e1. Com\u00e9 frutas, verduras, man\u00ed, huevos y carne. Explicale a tu familia que necesitas m\u00e1s comida para que tu beb\u00e9 crezca sano. Vas a necesitar un pu\u00f1ado extra de alimento con cada comida. Tambi\u00e9n podr\u00edas necesitar comer algo ligero entre comidas.\r\n\r\nPuede ser que tengas antojo de ciertos alimentos. A algunas mujeres embarazadas se les antoja cosas que no son de comer, como tierra, por ejemplo. Comer tierra u otras cosas que no son para comer puede ser da\u00f1ino para vos y para tu beb\u00e9. No las comas. La tierra puede darte estre\u00f1imiento y lombrices.\r\n\r\n", 
@@ -30,7 +30,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 71, 
+  "position": 30, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-i-need-eat-more", 
   "uuid": "333b80cb32a14319a89b12b3e77455e6"
