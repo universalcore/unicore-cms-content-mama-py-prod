@@ -6,17 +6,17 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:44:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-07T13:26:53.946548+00:00", 
+  "modified_at": "2016-04-23T11:21:58.848170+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "314483db49c8490da45ba89d9d2d3d20", 
-    "eeaa0cef97824124b8941e357cc91d49"
+    "eeaa0cef97824124b8941e357cc91d49", 
+    "314483db49c8490da45ba89d9d2d3d20"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nEs muy importante cuidar de tu propio cuerpo, al igual que cuidar a tu beb\u00e9. Si te sent\u00eds fuerte y bien,  podr\u00e1s enfrentar mejor los retos de la vida diaria.\r\n\r\nEs f\u00e1cil concentrar toda tu atenci\u00f3n en tu beb\u00e9 y olvidarte de vos misma, pero tu cuerpo acaba de pasar por una experiencia fuerte. Si ten\u00e9s problemas, hac\u00e9 algo r\u00e1pido.\r\n\r\nPlane\u00e1 con tiempo, por si hubiera una emergencia. Decid\u00ed qui\u00e9n cuidar\u00eda a tus otros hijos si vos o tu beb\u00e9 est\u00e1n enfermos. Tambi\u00e9n decid\u00ed c\u00f3mo llegar\u00edas a un puesto de salud o a ver a un profesional de la salud, y a qui\u00e9n llevar\u00edas contigo.\r\n\r\nTrat\u00e1 de encontrar la ruta m\u00e1s r\u00e1pida y la forma de transporte m\u00e1s r\u00e1pida. Podr\u00edas necesitar dinero para esto, as\u00ed que comenz\u00e1 a ahorrar poco a poco por si acaso. Esto te har\u00e1 sentir tranquila.\r\n\r\nSi ten\u00e9s alguna de estas se\u00f1ales, acercate sin p\u00e9rdida de tiempo a un puesto de salud. \r\n\r\n - \tEst\u00e1s sangrando mucho.\r\n\r\n - \tNo pod\u00e9s respirar y te duele el pecho.\r\n\r\n - \tTen\u00e9s fiebre y te sent\u00eds mal.\r\n\r\n - \tNo pod\u00e9s orinar.\r\n\r\n - \tTu panza est\u00e1 adolorida.\r\n\r\n - \tTe sale de la vagina un l\u00edquido pegajoso que huele mal.\r\n\r\n - \tTe arde cuando orinas.\r\n\r\nConsegu\u00ed ayuda pronto para que puedas recuperarte enseguida.\r\n\r\n", 
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 35, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "postnatal-danger-signs", 
   "uuid": "88caf2a8e64f4e3b8672d16495aff701"
