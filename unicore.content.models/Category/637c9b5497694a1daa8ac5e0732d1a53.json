@@ -1,0 +1,20 @@
+{
+  "subtitle": "about BC", 
+  "uuid": "637c9b5497694a1daa8ac5e0732d1a53", 
+  "language": "grn_PY", 
+  "title": "Sobre BabyCenter", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "sobre-babycenter", 
+  "source": "f39eccfb6d314d2d9e7eef82588ab1b5", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
