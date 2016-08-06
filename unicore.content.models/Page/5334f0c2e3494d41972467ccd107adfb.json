@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:38:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:14.593315+00:00", 
+  "modified_at": "2016-08-06T05:49:10.891027+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nEs muy importante beber y usar agua limpia y segura cuando  est\u00e1s embarazada. El agua te mantiene fresca y saludable, y puede ayudar a eliminar los microbios de tu cuerpo.\r\n\r\nA veces el agua se ve limpia, pero tiene microbios invisibles que pueden hacer que se enfermen gravemente vos y t\u00fa beb\u00e9. Evit\u00e1 usar agua sucia, preparando agua limpia cada ma\u00f1ana para cada d\u00eda.\r\n\r\nSi no hay agua limpia donde viv\u00eds, pod\u00e9s hacer que est\u00e9 limpia. Col\u00e1 el agua sobre un trapo limpio de algod\u00f3n y luego pon\u00e9 en el fuego hasta que hierva. Esto elimina los microbios. El agua hervida fr\u00eda es segura y la puedes beber. Herv\u00ed agua en  una olla grande todos los d\u00edas. Tap\u00e1 la olla y mantenela en un lugar fresco donde no estorbe. Esto evitar\u00e1 que entren las moscas y la suciedad.\r\n\r\nSi no pod\u00e9s colar y hervir tu agua, preguntale a tu profesional de la salud qu\u00e9 otros m\u00e9todos son bueno usar para hacer que tu agua sea segura para beber.\r\n\r\nComprar agua embotellada por lo general es bueno, porque casi siempre el agua es limpia y segura. Revis\u00e1 siempre la tapa del agua embotellada que compres para asegurarte de que el sello no est\u00e9 roto. Si el sello est\u00e1 roto, quiere decir que ya alguien abri\u00f3 esa botella. Quiz\u00e1s la rellenaron con agua sucia, as\u00ed que no te la tomes.\r\n\r\n", 
-  "source": null, 
+  "source": "2ff8b6ae36db440cbf2d04da8aa6a0f1", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 33, 
+  "position": 137, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "clean-safe-water", 
   "uuid": "5334f0c2e3494d41972467ccd107adfb"
