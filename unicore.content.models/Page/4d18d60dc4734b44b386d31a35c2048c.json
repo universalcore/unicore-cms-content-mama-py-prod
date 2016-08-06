@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T08:39:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:15.836674+00:00", 
+  "modified_at": "2016-08-06T06:19:19.022010+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,12 +22,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nLos dolores y los c\u00f3licos en la panza son normales en el embarazo. Pero, por lo general no hay que preocuparse. Tu cuerpo est\u00e1 cambiando para sostener a tu beb\u00e9 y tu matriz se est\u00e1 estirando para que quepa en ella tu beb\u00e9 a medida que crece.\r\n\r\nGeneralmente, descansar alivia los c\u00f3licos. Trat\u00e1 de relajarte. Sentate un rato con los pies en alto, o acostate del lado opuesto a donde sent\u00eds el dolor.\r\n\r\nA veces el dolor en la panza puede significar que algo anda mal:\r\n\r\n - \tA principios del embarazo, los c\u00f3licos o dolores en el abdomen, el sangrado y el dolor en el centro de la parte de abajo de la panza, podr\u00edan significar que est\u00e1s perdiendo a tu beb\u00e9. Acud\u00ed a tu puesto de salud si te sent\u00eds as\u00ed. Si est\u00e1s sangrando mucho y est\u00e1s empapando m\u00e1s de 1 toalla sanitaria por hora, necesit\u00e1s ir de inmediato a tu puesto de salud.\r\n\r\n - \tLos c\u00f3licos dolorosos que empiezan en un lado y se extienden por toda tu panza, podr\u00edan significar que tu embarazo est\u00e1 creciendo en el lugar equivocado. Tambi\u00e9n podr\u00edas tener sangrado oscuro y como con agua. Esto sucede temprano en el embarazo. And\u00e1 a tu puesto de salud de inmediato.\r\n\r\n - \tCuando ya est\u00e1 avanzado tu embarazo, si sent\u00eds dolor en la parte baja de la panza y en la espalda, junto con c\u00f3licos en la panza, y ten\u00e9s diarrea, podr\u00eda significar que tu beb\u00e9 est\u00e1 tratando de nacer antes de tiempo. Acercatea tu puesto de salud si ten\u00e9s dolores frecuentes ya avanzado tu embarazo, si ten\u00e9s sangrado o si se te rompe la fuente (si te sale l\u00edquido de la vagina).\r\n\r\n", 
-  "source": null, 
+  "source": "6e3c8ef116624b36b226799207bb22fa", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 50, 
+  "position": 154, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-i-have-pain-in-my-belly", 
   "uuid": "4d18d60dc4734b44b386d31a35c2048c"
