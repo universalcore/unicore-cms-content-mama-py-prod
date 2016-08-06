@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:29:47+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:14.952125+00:00", 
+  "modified_at": "2016-08-06T05:55:33.056671+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nEl t\u00e9tano es una enfermedad grave y peligrosa para las mujeres embarazadas y para los beb\u00e9s reci\u00e9n nacidos. Deb\u00e9s vacunarte para que no les d\u00e9 t\u00e9tano.\r\n\r\nTe puede dar t\u00e9tano a trav\u00e9s de una herida profunda, una cortada o una quemadura. Dar a luz los pone a vos y a tu beb\u00e9 en peligro de contraer t\u00e9tano. Si vos te vacunas contra el t\u00e9tano, estar\u00e1n protegidos vos y tu beb\u00e9.\r\n\r\nEs posible que te pueden vacunar contra el t\u00e9tano en tu puesto de salud local. Preguntale a tu profesional de la salud al respecto. Necesitar\u00edas 1 vacuna en tu primera visita y otra al menos un mes despu\u00e9s. \r\n\r\nTe vacunar\u00e1n con una inyecci\u00f3n y despu\u00e9s tu brazo podr\u00eda hincharse y ponerse rojo donde meten la aguja, pero no durar\u00e1 mucho. Ponete algo fr\u00edo en el brazo, si te duele, y descans\u00e1.\r\n\r\nLas vacunas te protegen de los microbios, pero no funcionan si ya tienes una enfermedad. As\u00ed que vacunate cuando no est\u00e9s enferma. No esperes hasta estar enferma, porque entonces ser\u00e1 demasiado tarde y la vacuna no te va a ayudar. \r\n\r\n", 
-  "source": null, 
+  "source": "97e273cb5fbe4263a845a1346da8ddc5", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 38, 
+  "position": 142, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-have-tetanus-vaccination", 
   "uuid": "4e7b3170e43f4c0cad53b0d21db92aad"
