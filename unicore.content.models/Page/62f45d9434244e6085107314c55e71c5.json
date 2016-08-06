@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:41:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:13.599829+00:00", 
+  "modified_at": "2016-08-06T05:35:14.858249+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nA veces una operaci\u00f3n es la forma m\u00e1s segura de tener a tu beb\u00e9. La ces\u00e1rea es una operaci\u00f3n que se realiza solamente en un puesto de salud o un hospital.\r\n\r\nPodr\u00edas necesitar una operaci\u00f3n si vas a tener m\u00e1s de 1 beb\u00e9, o si tu beb\u00e9 no est\u00e1 en una buena posici\u00f3n para nacer. \r\n\r\nSi llev\u00e1s m\u00e1s de 12 horas en el trabajo de parto, podr\u00edas necesitar una operaci\u00f3n para ayudar a tu beb\u00e9 a nacer. Si est\u00e1s teniendo el trabajo de parto en casa, este es el momento de ir a tu puesto de salud para ver si hay un problema.\r\n\r\nSi sangr\u00e1s durante el trabajo de parto, podr\u00edas necesitar una operaci\u00f3n muy r\u00e1pidamente.\r\n\r\nSi tuviste una operaci\u00f3n con un beb\u00e9 anterior, es posible que necesites una con este tambi\u00e9n. En ese caso, plane\u00e1 tener a este beb\u00e9 en un puesto de salud. \r\n\r\nAntes de la operaci\u00f3n puede ser que te hagan dormir o que te pongan una inyecci\u00f3n en la espina dorsal, para que no sientas dolor. Luego te har\u00e1n un corte en la panza. Tu beb\u00e9 va a nacer con la ayuda de un profesional de la salud y luego te coser\u00e1n. Ver\u00e1s a tu beb\u00e9 en cuanto nazca o cuando despiertes, si estabas dormida durante la operaci\u00f3n.\r\n\r\nDespu\u00e9s de la operaci\u00f3n, alguien debe cuidarte durante varios d\u00edas mientras sana tu herida. Vas a sangrar por la vagina durante algunas semanas, igual que con un parto normal.\r\n\r\n", 
-  "source": null, 
+  "source": "3baa68a4f6e046b4baae987373c4edeb", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 20, 
+  "position": 124, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "will-i-need-caesarean", 
   "uuid": "62f45d9434244e6085107314c55e71c5"
