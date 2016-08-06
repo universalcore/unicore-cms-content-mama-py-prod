@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:40:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:13.670100+00:00", 
+  "modified_at": "2016-08-06T05:36:15.843692+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nLo m\u00e1s seguro y lo m\u00e1s recomendado es tener a tu beb\u00e9 en puesto de salud, donde pueden ayudarte y ayudar a tu beb\u00e9 si hay problemas.\r\n\r\nSi no pod\u00e9s tener a tu beb\u00e9 en un puesto de salud, ten\u00e9s que hacer lo siguiente para lograr un parto seguro:\r\n\r\n - \tPlane\u00e1 tener contigo a una persona debidamente preparada y entrenada. Ella te ayudar\u00e1 a que tu beb\u00e9 nazca de manera segura y har\u00e1 lo que sea necesario para que no haya problemas.\r\n\r\n - \tAsegurate de conocer su n\u00famero de tel\u00e9fono para que puedas llamarla en caso de una emergencia. \r\n\r\n - \tTambi\u00e9n hay que tener preparado un plan de transporte. Por ejemplo, ten\u00e9 a mano los n\u00fameros de tel\u00e9fono de una ambulancia y de una parada de taxis. Asegurate de que tu tel\u00e9fono celular tenga suficiente cr\u00e9dito, para cuando necesites hacer llamadas. \r\n\r\n - \tAsegurate de que tu familia sepa c\u00f3mo contactar con la persona que te va a atender cuando llegue el momento. \r\n\r\n - \tTambi\u00e9n asegurate de tener listo lo que se necesita para el parto, aunque la persona que te atienda podr\u00eda traer un equipo de parto consigo. El equipo debe incluir una s\u00e1bana de pl\u00e1stico, guantes,  cordel limpio y herramientas para cortar el cord\u00f3n umbilical de tu beb\u00e9. Todas estas cosas son importantes para un nacimiento limpio y seguro. \r\n\r\n - \tSi no pod\u00e9s conseguir un equipo para el parto, busc\u00e1 una s\u00e1bana limpia,  para tener a tu beb\u00e9 sobre ella,  y 2 trapos limpios, uno para secar a tu beb\u00e9 y el otro para envolverlo. Ten\u00e9 listo un cuchillo filoso y  limpio o un par de tijeras limpias. La persona que te va a atender tiene que lavarse las manos y vos ten\u00e9s que lavarte bien entre las piernas. Tambi\u00e9n hay que tener a mano jab\u00f3n y mucha agua limpia y hervida.\r\n\r\n", 
-  "source": null, 
+  "source": "aac01287469d49d8afc292048bfb8258", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 21, 
+  "position": 125, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-to-have-safe-birth", 
   "uuid": "99d63d9149d84ffdaa4e56461e743445"
