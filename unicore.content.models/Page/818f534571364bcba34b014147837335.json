@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T08:29:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:16.658778+00:00", 
+  "modified_at": "2016-08-06T06:05:29.744939+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\n\u00bfEst\u00e1s embarazada? \u00bfC\u00f3mo pod\u00e9s saberlo? La se\u00f1al m\u00e1s segura es que te haya faltado un periodo, pero quiz\u00e1s te sea dif\u00edcil recordar la fecha de tu \u00faltimo periodo.\r\n\r\n\u00bfTen\u00e9s algunas de estas se\u00f1ales de embarazo?\r\n\r\n - \tTus senos se ven y se sienten diferentes \r\n\r\n - \tAparecen gotas de sangre en tu ropa interior\r\n\r\n - \tTen\u00e9s n\u00e1useas\r\n\r\n - \tNecesit\u00e1s orinar m\u00e1s de lo normal\r\n\r\n - \tNo te ha bajado un periodo\r\n\r\nSi cre\u00e9s que est\u00e1s embarazada, lo mejor es que veas a un profesional de la salud. Cuanto antes lo sepas, antes podr\u00e1s empezar a planear la venida de tu beb\u00e9 y un profesional de la salud es la persona indicada para darte consejos y ayudarte durante tu embarazo.\r\n\r\nControlar\u00e1 tu peso, revisar\u00e1 tu presi\u00f3n arterial y te har\u00e1 una prueba de orina.\r\n\r\n\u00bfNo te anim\u00e1s a ir sola al m\u00e9dico? Pedile a tu compa\u00f1ero o a una amiga que te acompa\u00f1e.\r\n\r\n", 
-  "source": null, 
+  "source": "b8f13a6a3e7e43a2b7ac020d2e01026d", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 61, 
+  "position": 165, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-how-do-i-know", 
   "uuid": "818f534571364bcba34b014147837335"
