@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1cd57634e44047188cb1a69c3be10eb6", 
+    "4d1c6f170fa2448292875922c05176c2"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi sos VIH+, hay muchas cosas que pod\u00e9s hacer para proteger a tu beb\u00e9 de contraer VIH.\r\n\r\nDurante el embarazo, tom\u00e1 tus antirretrovirales (ARV) y andate al puesto de salud para que te hagan revisiones regularmente.\r\n\r\nCuando empiece el trabajo de parto, acud\u00ed directamente a tu puesto de salud. Necesit\u00e1s cuidados especiales al principio del trabajo de parto para evitar pasarle el virus VIH a tu beb\u00e9. \r\n\r\nCuando nazca tu beb\u00e9, es muy bueno que le des de mamar y, al mismo tiempo, que los dos tomen antirretrovirales. Cuando vos los tomas, haces que tu leche sea segura para tu beb\u00e9.\r\n\r\nTu beb\u00e9 necesita tomar su jarabe antirretroviral todos los d\u00edas durante 4 a 6 semanas despu\u00e9s de su nacimiento,  para protegerse del VIH. Tu beb\u00e9 va a necesitar un an\u00e1lisis de sangre en el puesto de salud, como a las 6 semanas de nacido,  para ver si tiene el virus VIH.\r\n\r\nAsegurate de tocar a tu beb\u00e9 con las manos limpias. Cubrite todas tus heridas y cortes con una venda hasta que sanen.\r\n\r\nEl VIH es una enfermedad de larga duraci\u00f3n. Con las medicinas apropiadas, pod\u00e9s controlarla y seguir adelante.\r\n\r\n", 
   "source": "df8b82adb4d9483b91ce083e5fe82931", 
