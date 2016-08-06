@@ -6,12 +6,12 @@
   "primary_category": "2efb788268154aae82057ce2445cb7d3", 
   "created_at": "2015-04-16T08:26:36+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:22:28.232215+00:00", 
+  "modified_at": "2016-08-06T08:22:45.186584+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -21,12 +21,12 @@
   ], 
   "id": null, 
   "content": "Ojap\u00f3va Baby Center\r\n\r\nUpeicha ikatu opaite pe hye, he\u2019ise ikatuha hetegui osemba pe y ha tembiu rykue ha ikangupa. Emokambu chupe ha to\u2019u heta hykueva, suero, y, te. Ani reme\u2019e chupe yva rykue, refrescos, ha ijasuk\u00e1va. Ko\u2019\u00e1va Ikatu ombo hasyve chupe.\r\n\r\n**6 meses peve** ndoikotev\u00e9i  y. Emokambu ramo, eme\u2019eta chupe la oikoteveva.\r\n\r\n**6 meses rire**  emokambu ha pa\u2019\u00fame he\u2019uka chupe y. Avei suero ani opa y het\u00e9gui\r\n\r\nSuero ha\u2019e pete\u00ee polvo \u00f1embohykuva  y jygu\u00e9pe, ho\u2019ysa pyre. Ejapo ha e\u00f1ongatu 8 a 12 hora peve. He\u2019uka nde memby\u2019ipe 15 a 20 cucharaditas, cada media hora,  ani opa y het\u00e9gui   \r\n\r\nEgueraha ne memby\u2019i doctor pe:\r\n\r\n - \tHye ramo 1 dia rire\r\n\r\n - \tIpire ha ijuru  ikaramo\r\n\r\n - \tSa\u2019i okuaru ha ity sayjy h\u00fc\r\n\r\n - \tPe i\u00f1ak\u00e2 ru\u2019\u00e2me hu\u2019\u00fb ndoj\u00e1iva gueteri oguejy\r\n\r\n - \tNdo\u2019 us\u00e9i mba\u2019eve, ha hekaka oreko tuguy, ha hye irurupa.\r\n\r\n - \tOprovoca pete\u00ee \u00e1ra hetave,  tera i\u00f1akanundu pete\u00ee \u00e1ra hetave.\r\n\r\n", 
-  "source": null, 
+  "source": "cfdcb589c0f64d279a8f1e13983c7186", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 21, 
+  "position": 125, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "grn-my-baby-has-diarr", 
   "uuid": "eae183badbaa47f3b3d20848bc719344"
