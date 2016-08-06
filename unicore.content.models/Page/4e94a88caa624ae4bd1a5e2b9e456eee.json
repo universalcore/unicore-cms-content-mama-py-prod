@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:40:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:13.874013+00:00", 
+  "modified_at": "2016-08-06T05:39:59.351551+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,12 +24,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nLos minerales te ayudan a estar sana y a que tu beb\u00e9 se desarrolle sano. Si com\u00e9s alimentos de estos 4 grupos principales, obtendr\u00e1s los minerales que necesitas.\r\n\r\n - \tFrutas y verduras. Comer frutas y verduras de muchos colores diferentes es muy saludable.\r\n\r\n - \tAlimentos que te llenan, como arroz y papas. Bas\u00e1 tus comidas en este tipo de alimentos. Esto te dar\u00e1 energ\u00eda.\r\n\r\n - \tAlimentos ricos en prote\u00ednas, como huevos, pescado, pollo, y carne. Estos alimentos tambi\u00e9n son buena fuente de hierro. Te ayudar\u00e1n a estar fuerte.\r\n\r\n - \tAlimentos ricos en calcio como la leche. \r\n\r\nAgregar sal yodada a tu comida te proporciona yodo. Si la sal que usas es yodada, lo dir\u00e1 en el paquete. Necesit\u00e1s tomar suficiente yodo para ayudar al cerebro de tu beb\u00e9 a desarrollarse. Trat\u00e1 de comer un poco todos los d\u00edas.\r\n\r\nComer todos estos alimentos te mantendr\u00e1 sana y fuerte, y podr\u00e1s desarrollar un beb\u00e9 sano.\r\n\r\n", 
-  "source": null, 
+  "source": "61a6efcc38f845cabac3680e7bfb52ce", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 24, 
+  "position": 128, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-do-i-need-minerals", 
   "uuid": "4e94a88caa624ae4bd1a5e2b9e456eee"
