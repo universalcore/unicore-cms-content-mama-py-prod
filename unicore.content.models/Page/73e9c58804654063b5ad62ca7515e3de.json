@@ -6,12 +6,12 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:48:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:56.061412+00:00", 
+  "modified_at": "2016-08-06T05:27:06.278701+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -21,12 +21,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nA la mayor\u00eda de los beb\u00e9s les sale el primer diente como a los 6 meses. Pero tambi\u00e9n les puede salir su primer diente en cualquier momento,  entre los 3 meses y el a\u00f1o. Por lo general aparece en la enc\u00eda de abajo, en medio.\r\n\r\nSi le est\u00e1 saliendo un diente a tu beb\u00e9, podr\u00edas notar estas se\u00f1ales:\r\n\r\n - \ttiene las enc\u00edas rojas, hinchadas, y su cara y cachetes est\u00e1n rojos\r\n\r\n - \tbabea mucho\r\n\r\n - \ttrata de frotarse las enc\u00edas y la oreja del mismo lado donde le est\u00e1 saliendo el diente\r\n\r\n - \tse despierta en la noche por el dolor\r\n\r\nCuando tu nene o nena tenga 2 a\u00f1os de edad, ya deber\u00eda tener sus 20 dientes de leche.\r\n\r\nEs mejor empezar a lavarle los dientes cuanto le salgan. Us\u00e1  un cepillo de cerdas suave y peque\u00f1o y un poquito de pasta de dientes, si ten\u00e9s. Trat\u00e1 de limpiar la superficie de sus dientes y  tambi\u00e9n sus enc\u00edas. \r\n\r\nA algunos beb\u00e9s les es dif\u00edcil alimentarse cuando les est\u00e1n saliendo los dientes. Cuando tu beb\u00e9 mama, llega m\u00e1s sangre a sus enc\u00edas hinchadas. Las enc\u00edas son muy sensibles. Por eso podr\u00eda rechazar tu pecho.\r\n\r\nEs f\u00e1cil comprender que cuando les est\u00e1n saliendo los dientes, los beb\u00e9s se ponen irritables e inquietos. Alzale upa, mimale y consolale lo m\u00e1s que puedas. \r\n\r\n", 
-  "source": null, 
+  "source": "1c70bc5f7c58499893cac356919ea64d", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 8, 
+  "position": 112, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-baby-getting-teeth", 
   "uuid": "73e9c58804654063b5ad62ca7515e3de"
