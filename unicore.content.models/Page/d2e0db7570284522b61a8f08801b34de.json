@@ -6,12 +6,12 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:44:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:58.695441+00:00", 
+  "modified_at": "2016-08-06T05:56:59.743964+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nTal vez tu familia quiera que tengas otro beb\u00e9. Podr\u00edas explicarles que tu pr\u00f3ximo beb\u00e9 ser\u00e1 m\u00e1s sano si esperas por lo menos 2 a\u00f1os.\r\n\r\nSi tu madre tuvo a sus beb\u00e9s muy seguidos, tal vez no comprenda por qu\u00e9 quieres esperar. Es posible que tu pareja tambi\u00e9n quiera otro beb\u00e9.\r\n\r\nHay  3 razones por las que es mejor esperar.\r\n\r\n - \tQuedar embarazada antes de que tu beb\u00e9 tenga 2 a\u00f1os de edad puede ponerte en peligro. Tu cuerpo necesita recuperarse del primer parto.\r\n\r\n - \tEsperar 2 a\u00f1os tambi\u00e9n asegurar\u00e1 la salud a tu pr\u00f3ximo beb\u00e9. Quedar embarazada demasiado pronto podr\u00eda hacer que tu pr\u00f3ximo beb\u00e9 sea d\u00e9bil o nazca demasiado pronto.\r\n\r\n - \tTambi\u00e9n, esperar les da tiempo a vos y a tu pareja para ganar m\u00e1s dinero. Podr\u00edas ahorrar ese dinero para el futuro. Esto har\u00e1 que sea m\u00e1s f\u00e1cil pagar las cosas que necesites para que vos y tu beb\u00e9 se mantengan sanos. \r\n\r\nQuiz\u00e1s tu familia quiera que tu beb\u00e9 tenga un hermanito o una hermanita. Pero esperar a que tu beb\u00e9 tenga al menos 2 a\u00f1os te dar\u00e1 una familia m\u00e1s sana y m\u00e1s feliz. Y te dar\u00e1 tiempo para disfrutar a este beb\u00e9.\r\n\r\nSi no has empezado a usar un m\u00e9todo de planeamiento familiar, este es el momento. Habl\u00e1 con tu profesional de la salud. Tal vez pueda ofrecerte m\u00e9todos de planeamiento familiar gratis.\r\n\r\n", 
-  "source": null, 
+  "source": "c54f5fb93e4c462e86aadae89b85e391", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 40, 
+  "position": 144, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-have-my-next-baby", 
   "uuid": "d2e0db7570284522b61a8f08801b34de"
