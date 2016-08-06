@@ -6,12 +6,12 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-04-07T09:39:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:14.358841+00:00", 
+  "modified_at": "2016-08-06T05:46:57.506241+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,12 +24,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nAhora que est\u00e1s embarazada, es importante que trates de comer bien para que tu beb\u00e9 crezca bien. Vos y tu beb\u00e9 necesitan muchos alimentos diferentes. \r\n\r\n\u00a1Una forma f\u00e1cil de hacerlo es comiendo alimentos de muchos colores diferentes! \r\n\r\nPodr\u00edas hablar con tu familia sobre la comida que necesitas.\r\n\r\nTrat\u00e1 de comer algunos de estos tipos de alimentos todos los d\u00edas:\r\n\r\n - \tFrutas y verduras. Estas protegen a tu beb\u00e9 de la posibilidad de nacer con un problema.\r\n\r\n - \tAlimentos ricos en almid\u00f3n. Estos incluyen pan, arroz, pasta, papas y calabaza. Estos alimentos te dar\u00e1n energ\u00eda.\r\n\r\n - \tAlimentos ricos en prote\u00ednas. Estos incluyen huevos, verduras de hojas verde oscuro, pollo, pescado y carne. Estos alimentos construyen el cuerpo.\r\n\r\n - \tAlimentos ricos en calcio y l\u00e1cteos. Estos incluyen leche. Ayudan a tu beb\u00e9 a desarrollar huesos fuertes.\r\n\r\n", 
-  "source": null, 
+  "source": "c839ccc7d4df4118958595a1e71842ce", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 31, 
+  "position": 135, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "should-i-eat-differently", 
   "uuid": "40ead08570ad42d49f65bfef13be9897"
