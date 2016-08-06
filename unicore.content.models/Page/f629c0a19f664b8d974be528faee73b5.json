@@ -6,12 +6,12 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:47:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:56.784501+00:00", 
+  "modified_at": "2016-08-06T05:31:59.270345+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -21,12 +21,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nGatear es el siguiente gran paso de tu beb\u00e9 despu\u00e9s de sentarse. Por lo general, pero no siempre, este es un paso muy importante antes de poder caminar. \r\n\r\nTu beb\u00e9 podr\u00eda empezar a gatear cuando tenga entre 6 y 9 meses. Esto significa que, probablemente, estar\u00e1 gateando bien cuando cumpla 1 a\u00f1o.\r\n\r\nPero no todos los beb\u00e9s gatean. Quiz\u00e1s a tu beb\u00e9 le guste trasladarse de un lado a otro sentado, en vez de gatear sobre sus manos y sus rodillas. O tal vez le guste ir de un lado a otro arrastr\u00e1ndose sobre su pancita.\r\n\r\nAlgunos beb\u00e9s nunca gatean. En vez de eso aprenden a pararse sosteni\u00e9ndose de los muebles, luego a pararse sin sostenerse y a caminar. Lo importante es que tu beb\u00e9 est\u00e9 activo, y no tanto c\u00f3mo lo haga.\r\n\r\nLos beb\u00e9s se desarrollan de diferentes maneras. Si est\u00e1s preocupada porque tu beb\u00e9 se est\u00e1 tardando mucho en empezar a gatear o a moverse de un lado a otro, habl\u00e1 con un profesional de la salud. \r\n\r\n", 
-  "source": null, 
+  "source": "bb51d1e64af848ef92d96b39d095bc0d", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 17, 
+  "position": 121, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-will-my-baby-crawl", 
   "uuid": "f629c0a19f664b8d974be528faee73b5"
