@@ -6,12 +6,12 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-04-07T09:46:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:21:57.859744+00:00", 
+  "modified_at": "2016-08-06T05:44:20.231366+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,12 +20,12 @@
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi sos VIH+, hay muchas cosas que pod\u00e9s hacer para proteger a tu beb\u00e9 de contraer VIH.\r\n\r\nDurante el embarazo, tom\u00e1 tus antirretrovirales (ARV) y andate al puesto de salud para que te hagan revisiones regularmente.\r\n\r\nCuando empiece el trabajo de parto, acud\u00ed directamente a tu puesto de salud. Necesit\u00e1s cuidados especiales al principio del trabajo de parto para evitar pasarle el virus VIH a tu beb\u00e9. \r\n\r\nCuando nazca tu beb\u00e9, es muy bueno que le des de mamar y, al mismo tiempo, que los dos tomen antirretrovirales. Cuando vos los tomas, haces que tu leche sea segura para tu beb\u00e9.\r\n\r\nTu beb\u00e9 necesita tomar su jarabe antirretroviral todos los d\u00edas durante 4 a 6 semanas despu\u00e9s de su nacimiento,  para protegerse del VIH. Tu beb\u00e9 va a necesitar un an\u00e1lisis de sangre en el puesto de salud, como a las 6 semanas de nacido,  para ver si tiene el virus VIH.\r\n\r\nAsegurate de tocar a tu beb\u00e9 con las manos limpias. Cubrite todas tus heridas y cortes con una venda hasta que sanen.\r\n\r\nEl VIH es una enfermedad de larga duraci\u00f3n. Con las medicinas apropiadas, pod\u00e9s controlarla y seguir adelante.\r\n\r\n", 
-  "source": null, 
+  "source": "df8b82adb4d9483b91ce083e5fe82931", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 29, 
+  "position": 133, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hiv-how-do-i-protect-him", 
   "uuid": "26ba7190b44c4d7a9fad9e42c56c5268"
